@@ -10,7 +10,7 @@ The dashboard provides actionable insights into campaign effectiveness across me
 
 
 ## 🔹 Dashboard Preview  
-![Dashboard Screenshot](https://drive.google.com/file/d/1nRgkEzp7XPytOaMhX-oqJMyj8CKBtn9l/view?usp=drive_link)  
+https://drive.google.com/file/d/1nRgkEzp7XPytOaMhX-oqJMyj8CKBtn9l/view?usp=drive_link
 
 
 ## 🔹 Key Features  
